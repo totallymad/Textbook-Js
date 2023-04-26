@@ -1,0 +1,12 @@
+"use strict";
+let a;
+alert(a);
+let b = null;
+alert(b);
+let c = true, d = false;
+alert(c);
+alert(d);
+let str = 'abc', str1 = 'cda';
+alert(str*str1);
+alert(10/0);
+alert(-10/0);

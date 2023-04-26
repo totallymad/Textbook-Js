@@ -1,0 +1,10 @@
+"use strict";
+let num = 1;
+console.log(num);
+let num1 = 2, num2 = 3, num3 = 4;
+console.log(num1, num2, num3);
+console.log(123);
+console.log('abc');
+console.log(false);
+console.log(undefined);
+console.log(aslkfjasf);
